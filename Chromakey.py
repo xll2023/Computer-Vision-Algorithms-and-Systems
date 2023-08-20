@@ -1,7 +1,6 @@
 # CSCI935/CSCI435 (S223) Computer Vision Algorithms and Systems
 # Assignment 1
-# Student ID: 8097471
-# UOW login name: xl340
+
 
 
 import cv2
