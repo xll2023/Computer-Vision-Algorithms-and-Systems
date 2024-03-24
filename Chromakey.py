@@ -1,7 +1,3 @@
-# CSCI935/CSCI435 (S223) Computer Vision Algorithms and Systems
-# Assignment 1
-
-
 
 import cv2
 import numpy as np
