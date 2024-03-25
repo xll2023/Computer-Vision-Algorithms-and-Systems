@@ -1,4 +1,4 @@
-# Computer-Vision-Algorithms-and-Systems
+# Chroma key
 Computer Vision Algorithms and Systems
 Objectives
 1. Getting familiar with OpenCV 4.6.0
